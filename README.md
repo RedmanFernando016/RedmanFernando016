@@ -5,7 +5,7 @@
 
 <hr>
 
-<h2>📋 Meu painel</h2>
+<h2>📋 My Dashboard </h2>
 
 <p align="center">
   <img
